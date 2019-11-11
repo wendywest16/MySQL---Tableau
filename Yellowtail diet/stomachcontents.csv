@@ -1,0 +1,166 @@
+preyID,fishID,preyspp,prey_phylum,prey_class,prey_order,prey_family,prey_weight_g
+48,23,Lysiosquilla tredecimdentata,CU,Malacostraca,Stomatopoda,Lysiosquillidae,0.2
+47,23,Panaeoidea,CU,Malacostraca,Decapoda,,0.1
+46,23,Lysiosquilla tredecimdentata,CU,Malacostraca,Stomatopoda,Lysiosquillidae,1.4
+45,24,Odontodactylus scyllarus,CU,Malacostraca,Stomatopoda,Odontodactylidae,0.1
+44,24,Lysiosquilla tredecimdentata ,CU,Malacostraca,Stomatopoda,Lysiosquillidae,0.1
+8,5,Lysiosquilla tredecimdentata,CU,Malacostraca,Stomatopoda,Lysiosquillidae,2
+9,5,,F,Actinopterygii,Myctophiformes,Myctophidae,0.1
+42,25,Lysiosquilla tredecimdentata,CU,Malacostraca,Stomatopoda,Lysiosquillidae,2.5
+43,25,Notoscopelus spp.,F,Actinopterygii,Myctophiformes,Myctophidae,0
+40,26,Brachyura,CU,Malacostraca,Decapoda,,0.2
+41,26,Unknown species,CU,,,,1.4
+39,26,Anomura,CU,Malacostraca,Decapoda,,0.6
+53,27,Unknown species,O,,,,2.1
+52,27,Odontodactylus scyllarus,CU,Malacostraca,Stomatopoda,Odontodactylidae,0.1
+49,27,,CU,Malacostraca,Isopoda,,0
+50,27,Portunus pelagicus,CU,Malacostraca,Decapoda,Portunidae,0.1
+51,27,Lysiosquilla tredecimdentata ,CU,Malacostraca,Stomatopoda,Lysiosquillidae,0.1
+24,9,Unknown species,O,,,,1.6
+23,9,Unknown species,CE,,,,0.9
+13,10,Unknown species,CE,,,,3.5
+19,11,Plastic,O,,,,0.1
+14,11,Portunid crab,CU,Malacostraca,Decapoda,Portunidae,0.4
+15,11,,CU,Malacostraca,Isopoda,,0
+16,11,Portunus pelagicus,CU,Malacostraca,Decapoda,Portunidae,0.1
+17,11,Anomura,CU,Malacostraca,Decapoda,,2.3
+18,11,Anomura,CU,Malacostraca,Decapoda,,0.1
+55,28,Unknown species,O,,,,5.8
+54,28,,CE,Cephalopoda,Octopoda,,14
+30,17,Unknown species,F,,,,0.1
+1,1,Trachurus trachurus,F,Actinopterygii,Perciformes,Carangidae,16.6
+2,1,Unknown species,F,,,,7.9
+10,6,Unknown species,CE,Cephalopoda,,,1
+11,7,Octopoteuthis rugosa,CE,Cephalopoda,Teuthida,Octopoteuthidae,1.5
+3,2,Unknown species,F,,,,2.2
+4,3,Unknown species,F,,,,0.3
+12,12,Unknown species,F,,,,0.1
+5,4,,CU,Malacostraca,Amphipoda,Hyperiidae,0.2
+6,4,Unknown species,F,,,,0.3
+22,13,,CU,Malacostraca,Isopoda,,0.1
+29,14,Plastic,O,,,,0.1
+27,14,Unknown species,O,,,,5.3
+28,14,Unknown species,CE,Cephalopoda,,,0.1
+26,14,Anomura,CU,Malacostraca,Decapoda,,0.2
+25,14,,CU,Malacostraca,Isopoda,,0.1
+32,18,,F,Actinopterygii,Perciformes,Gempylidae,0
+31,18,,F,Actinopterygii,Perciformes,Gempylidae,1.8
+20,15,Unknown species,F,,,,1.7
+21,16,Lysiosquilla tredecimdentata,CU,Malacostraca,Stomatopoda,Lysiosquillidae,2
+7,8,Unknown species,F,,,,0.4
+36,19,,CU,Malacostraca,Amphipoda,,0.1
+38,20,Unknown species,CU,,,,0.8
+37,21,Unknown species,CU,,,,1.4
+33,22,Unknown species,O,,,,1.9
+34,22,Lysiosquilla tredecimdentata ,CU,Malacostraca,Stomatopoda,Lysiosquillidae,0.1
+35,22,Odontodactylus scyllarus,CU,Malacostraca,Stomatopoda,Odontodactylidae,0.1
+56,29,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,42.9
+57,30,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,20.1
+58,31,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,29.9
+59,32,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,29.5
+60,33,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,31.7
+61,34,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,1
+62,35,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,23.9
+63,36,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,15.1
+64,37,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,22.8
+66,38,Unknown species,CE,,,,3.1
+65,38,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,27.4
+67,39,Platyscelus ovoides,CU,Malacostraca,Amphipoda,Platyscelidae,0.1
+68,39,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,3.1
+69,39,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,0.1
+70,39,Diaphus lucidus,F,Actinopterygii,Myctophiformes,Myctophidae,0
+71,40,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,30.1
+73,41,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,0.8
+72,41,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,3
+74,41,Diaphus lucidus,F,Actinopterygii,Myctophiformes,Myctophidae,11.5
+75,41,Unknown species,F,Actinopterygii,Perciformes,Gempylidae,18.2
+76,41,Cubiceps careulus,F,Actinopterygii,Perciformes,Nomeidae,53.4
+77,42,Platyscelus ovoides,CU,Malacostraca,Amphipoda,Platyscelidae,0.1
+78,42,Decapod prawn,CU,Malacostraca,Decapoda,,0.1
+79,42,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,14.2
+80,43,Brachyura,CU,Malacostraca,Decapoda,,0.1
+81,43,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,14.1
+82,43,,M,Gastropoda,Littorinimorpha,Atlantidae,0.1
+83,44,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,18.7
+84,44,Diaphus lucidus,F,Actinopterygii,Myctophiformes,Myctophidae,0.1
+88,45,Unknown species,CE,,,,1.8
+85,45,Hermit crab larvae,CU,Malacostraca,Decapoda,Paguroidea,5.1
+86,45,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,16.5
+89,45,,M,Gastropoda,Littorinimorpha,Atlantidae,0.1
+87,45,Unknown species,F,,,,26.1
+90,46,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,10.8
+92,47,Unknown species,CE,Cephalopoda,Teuthida,Histioteuthidae,8.4
+91,47,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,19.2
+94,48,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,19
+93,48,Brachyura,CU,Malacostraca,Decapoda,,0.1
+95,48,Unknown species,F,,,,52.8
+96,49,Cubiceps careulus,F,Actinopterygii,Perciformes,Nomeidae,116.8
+97,50,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,43.4
+98,50,Unknown species,F,,,,59.5
+103,51,Unknown species,F,Actinopterygii,Myctophiformes,Myctophidae,12.1
+102,51,Symbolophorus boops,F,Actinopterygii,Myctophiformes,Myctophidae,12.1
+100,51,Gymnoscopelus piabilis,F,Actinopterygii,Myctophiformes,Myctophidae,12.1
+99,51,Diaphus problematicus,F,Actinopterygii,Myctophiformes,Myctophidae,12.1
+101,51,Myctophum nitidulum,F,Actinopterygii,Myctophiformes,Myctophidae,12.1
+107,52,Unknown species,CE,Cephalopoda,Teuthida,Histioteuthidae,8.9
+104,52,hermit crab larvae,CU,Malacostraca,Decapoda,Paguroidea,2.4
+105,52,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,2
+106,52,Unknown species,F,,,,6
+108,53,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,25.1
+109,54,Unknown species,F,Actinopterygii,Perciformes,Acanthuridae,0
+110,54,Wrasse spp,F,Actinopterygii,Perciformes,Labridae,102
+111,55,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,24.2
+112,56,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,2.2
+113,57,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,24.2
+115,58,Unknown species,CE,Cephalopoda,Teuthida,Histioteuthidae,0.1
+114,58,Symbolophorus barnadi,F,Actinopterygii,Myctophiformes,Myctophidae,43.5
+116,59,Brachyura,CU,Malacostraca,Decapoda,,0.1
+117,59,Brachyura,CU,Malacostraca,Decapoda,,0.1
+118,59,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,3.1
+119,60,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,23.4
+120,60,Unknown species,F,,,,34.6
+121,61,Unknown species,F,,,,44.1
+124,62,Unknown species,CE,Cephalopoda,Teuthida,Ommastrephidae,3
+122,62,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,9.7
+123,62,Unknown species,F,,,,30.1
+125,63,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,24.7
+126,64,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,25.2
+127,64,Unknown species,F,,,,4.1
+128,65,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,25.4
+129,66,Platyscelus ovoides,CU,Malacostraca,Amphipoda,Platyscelidae,0.1
+130,66,Brachyura,CU,Malacostraca,Decapoda,,0.7
+131,66,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,4.2
+132,66,Unknown species,F,,,,4.4
+135,67,Unknown species,O,,,,0.1
+133,67,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,18.4
+134,67,Trachurus delagoa,F,Actinopterygii,Perciformes,Carangidae,0
+136,68,Oysters,M,Bivalvia,Ostreoida,Ostreoidae,25.8
+137,69,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,41
+138,69,Cubiceps capensis,F,Actinopterygii,Perciformes,Nomeidae,0
+139,70,Platyscelus ovoides,CU,Malacostraca,Amphipoda,Platyscelidae,0.1
+140,70,Brachyura,CU,Malacostraca,Decapoda,,0.6
+141,70,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,9.8
+142,71,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,10.9
+143,72,Unknown species,O,,,,1.6
+144,73,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,9.5
+145,73,Unknown species,F,,,,2.6
+146,74,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,30.8
+147,75,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,1.6
+148,75,Unknown species,F,,,,0.1
+153,76,Unknown species,CE,,,,16.9
+149,76,,CU,Malacostraca,Amphipoda,,0.1
+150,76,Brachyura,CU,Malacostraca,Decapoda,,0.7
+151,76,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,26.1
+152,76,Diaphus lucidus,F,Actinopterygii,Myctophiformes,Myctophidae,0
+154,77,Myctophum phengodes,F,Actinopterygii,Myctophiformes,Myctophidae,289.2
+155,77,Myctophum phengodes,F,Actinopterygii,Myctophiformes,Myctophidae,0
+156,78,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,3.6
+157,79,Hygophum proximum,F,Actinopterygii,Myctophiformes,Myctophidae,0
+158,79,Trachurus delagoa,F,Actinopterygii,Perciformes,Carangidae,0
+159,79,Unknown species,F,Actinopterygii,Perciformes,Labridae,96
+160,80,,CU,Malacostraca,Amphipoda,,0.1
+161,80,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,2.4
+162,80,,M,Gastropoda,Littorinimorpha,Atlantidae,0.1
+163,81,Krill,CU,Malacostraca,Euphausiacea,Euphausiidae,4.9
+164,81,Myctophum phengodes,F,Actinopterygii,Myctophiformes,Myctophidae,0.1
+165,82,Unknown species,F,,,,128.4
