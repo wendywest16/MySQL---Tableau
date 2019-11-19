@@ -6,4 +6,4 @@ https://www.dropbox.com/s/lhj4axkaupjhmbq/employees_mod.sql?dl=0
 
 1. MySQL schema of queries: employees_mod_queries.sql
 2. EER diagram: Employees_mod_EER.pdf
-2. Graphs available at: 
+2. Graphs available at: https://public.tableau.com/views/UdemyMySQLforDataAnalyticsandBusinessIntelligence/employeesMF_dept?:display_count=y&:origin=viz_share_link
