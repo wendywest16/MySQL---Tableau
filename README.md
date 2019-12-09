@@ -1,3 +1,3 @@
-# MySQL---Tableau
+# Python---MySQL---Tableau
 
-A collection of MySQL scripts to highlight database management. Includes querying with results displayed in Tableau.
+A collection of MySQL scripts to highlight database management and querying, Python files for data manipulation, and links to results displayed in Tableau.
