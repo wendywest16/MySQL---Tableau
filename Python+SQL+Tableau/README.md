@@ -1,5 +1,24 @@
-Exercises in the use of Python, MySQL and Tableau from the Udemy course: Python+SQL+Tableau: Integration Python, SQL and Tableau.
+Exercise in the use of Python, MySQL and Tableau from the Udemy course: Python+SQL+Tableau: Integration Python, SQL and Tableau.
 
-Business problem: explore whether a person presenting certain characteristics is expected to be away from work at some point in time or not. 
-Characteristics include: how far they live from the work place, how many children and pets they have, level of education.
-Models to be tested: 
+BUSINESS PROBLEM: explore whether a person presenting certain characteristics is expected to be away from work at some point in time or not. 
+
+Dependent variable: hours absent from work
+
+Independent variables:
+ -	Reason for absence
+ -	Month 
+ -  Day of the week
+ -	Transportation expense
+ -  Distance to work
+ -  Age
+ -  Daily work load
+ -  BMI
+ -  Children
+ -  Pets
+ -  Education
+ 
+ #Data pre-processing: MySQL Python Tableau_data preprocessing.ipynb
+ 
+ #Model selection: MySQL Python Tableau_model selection.ipynb
+
+
