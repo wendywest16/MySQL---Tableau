@@ -5,4 +5,6 @@ Two tables contain data on permits:
 
 Calculate the turnaround time (date created to date started) for each permit per sector. Sector 1 (IR community) contains the name 'community' in the right holder name, and Sector 2 (commercial) does not contain 'community'. 
 
-The weekends and public holidays must be deducted from the turnaround time to produce number of working days.
+The weekends and public holidays must be deducted from the turnaround time to produce number of working days. Table 'weekday_holidays' contains all South African holidays, weekends and business closure periods from 2017.
+
+Code run in 'exports_turnaround.sql'
